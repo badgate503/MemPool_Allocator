@@ -1,0 +1,4 @@
+/Users/badgate/cpp_impl/final_allocator/cmake-build-release/CMakeFiles/myAllocator.dir
+/Users/badgate/cpp_impl/final_allocator/cmake-build-release/CMakeFiles/alloc_test.dir
+/Users/badgate/cpp_impl/final_allocator/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/badgate/cpp_impl/final_allocator/cmake-build-release/CMakeFiles/rebuild_cache.dir
